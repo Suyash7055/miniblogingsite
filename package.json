@@ -1,0 +1,31 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "Blogging site Backend Project",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suyash7055/miniblogingsite.git"
+  },
+  "keywords": [
+    "mini",
+    "bloggong",
+    "site",
+    "tech",
+    "blog"
+  ],
+  "author": "Suyash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suyash7055/miniblogingsite/issues"
+  },
+  "homepage": "https://github.com/Suyash7055/miniblogingsite#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+}
